@@ -1,0 +1,36 @@
+{
+  "posts": [
+    {
+      "firstname": "ajai",
+      "lastname": "kumar",
+      "email": "ajai@gmail.com",
+      "password": "4567",
+      "Address": "chennais",
+      "id": 3
+    },
+    {
+      "firstname": "viswa",
+      "lastname": "nathan",
+      "email": "viswa@gmail.com",
+      "password": "viswa123",
+      "Address": "chennai",
+      "id": 4
+    },
+    {
+      "firstname": "balaji",
+      "lastname": "teejy",
+      "email": "balajiteejey@gmail.com",
+      "password": "venom",
+      "Address": "chennnai",
+      "id": 5
+    },
+    {
+      "firstname": "mahesh",
+      "lastname": "kumar",
+      "email": "mahesh@gmail.com",
+      "password": "venom",
+      "Address": "chennai",
+      "id": 6
+    }
+  ]
+}
